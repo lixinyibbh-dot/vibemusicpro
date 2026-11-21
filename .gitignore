@@ -1,0 +1,12 @@
+.idea
+others
+.pnpm-store
+.m2
+**/node_modules
+**/dist
+**/target
+
+### Test ###
+**/src/test
+*.drawio
+.zcode
